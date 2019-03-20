@@ -19,6 +19,6 @@ Exemplo que pode ser usado em outras máquinas :
 curl_setopt($ch, CURLOPT_URL, "http://localhost/projeto_tarefa/buscarInformacaoParametro");
 curl_setopt($ch, CURLOPT_URL, "http://localhost:8000/projeto_tarefa/buscarInformacaoParametro");
 
-E a também a pasta precisa se chamar projeto_agenda
+E a também a pasta precisa se chamar projeto_tarefa
 ...........................................................................
 
