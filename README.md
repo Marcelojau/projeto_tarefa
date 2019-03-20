@@ -2,7 +2,7 @@
 Projeto tarefa 
 Bom dia
 Procedimento para gerar o projeto
-Também para gerar o banco precisa criar uma database chamada projeto_agenda, e, dentro dela rodar o arquivo que está em sql_tarefa
+Também para gerar o banco precisa criar uma database chamada projeto_tarefa, e, dentro dela rodar o arquivo que está em sql_tarefa
 com o nome de tarefa.sql
 O projeto foi desenvolvido com uma api com um crud, onde pode cadastrar, editar, excluir e atualizar a informação da tarefa
 Detalhe: Não se pode cadastrar um mesmo titulo para uma tarefa. ja é verificado isso na função 
