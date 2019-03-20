@@ -12,3 +12,8 @@ curl_setopt($ch, CURLOPT_URL, "http://localhost/projeto_tarefa/buscarInformacaoP
 E a também a pasta precisa se chamar projeto_tarefa
 
 ...........................................................................
+
+
+Na listagem de tarefas, dou foco na tarefa de cancelada e concluidas, trocando a cor delas, também para ordenar ou fazer busca fora as do filtro,
+Pode ser usado pelo busca do datatables, também pode organizar a tabela pelo titulos da tabela   (só clicando nele)
+
