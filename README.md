@@ -21,3 +21,4 @@ curl_setopt($ch, CURLOPT_URL, "http://localhost:8000/projeto_tarefa/buscarInform
 
 E a também a pasta precisa se chamar projeto_agenda
 ...........................................................................
+
